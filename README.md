@@ -1,0 +1,1 @@
+This repo contains code used to create the dataset "musical-adaptations" which is also contained in this repo. The data was obtained using a combination of webscraping, joining, and api searching. 
